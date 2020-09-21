@@ -1,5 +1,6 @@
 -c requirements.txt
 
+wheel
 ipython
 
 pytest-django>=3.9
